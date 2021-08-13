@@ -1,18 +1,18 @@
-![introduction](./introduction.jpg)
+![introduction](images/introduction.jpg)
 # 2021 Xilinx Summer Camp X PYNQ HACK
 
 本次由信息技术新工科联盟主办，Xilinx、联合承办的暑期学校已于8月6日落下帷幕。从7月26日到8月6日这12天时间里，约90名经过筛选或者参与了阶段一的优秀学员通过互联网参与了这一次暑期学校阶段二的课程。
 
 本仓库用于记录本次暑期学校培训的部分项目和日程，详细的培训内容与优秀项目信息请关注下方PYNQ开源社区公众号获取。
 
-![wechat](pynq_wechat.png)
+![wechat](images/pynq_wechat.png)
 
 # Summer Camp Schedule(日程回顾)
 
 ## 项目选题
-![project](./project_selected.png)
+![project](images/project_selected.png)
 ## 在线技术讨论
-![discussion](./discussion.png)
+![discussion](images/discussion.png)
 
 # Projects List（项目列表）
 
